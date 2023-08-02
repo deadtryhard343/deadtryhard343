@@ -9,6 +9,8 @@ I made Astrophel Music and Astrophel
 Astrophel is a multipurpose discord bot to help manage your discord server
 Astrophel music is a discord music bot that plays music in your voice channels based off of youtube, bandcamp, spotify, soundcloud and more!
 
+https://discord.gg/H2czZSKCKa is my support server link as of now
+
 I am cool man! 
 
 ill probably add more to this later
