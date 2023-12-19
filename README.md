@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadtryhard343" alt="deadtryhard343" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/deadtryhard343" target="blank"><img src="https://img.shields.io/twitter/follow/deadtryhard343?logo=twitter&style=for-the-badge" alt="deadtryhard343" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Astrophel](https://discord.gg/3MCzk7khJy)
 
-- 👯 I’m looking to collaborate on [Cosmos Webpage](https://cosmosbot.dev)
+- 👯 I collaborate on the [Cosmos Webpage](https://cosmosbot.dev)
 
 - 💬 Ask me about **Astrophel, Webpages, and anything else I will answer! I am a small dev learning**
 
@@ -17,8 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deadtryhard343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deadtryhard343" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/deadtryhard343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deadtryhard343" height="30" width="40" /></a>
 <a href="https://discord.gg/3MCzk7khJy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3MCzk7khJy" height="30" width="40" /></a>
 </p>
 
